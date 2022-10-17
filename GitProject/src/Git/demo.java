@@ -10,5 +10,6 @@ public class demo
 	public void m2()
 	{
 		System.out.println("phone=8177904130");
+		System.out.println("email=vaibhavkhade234@gmail.com");
 	}
 }
