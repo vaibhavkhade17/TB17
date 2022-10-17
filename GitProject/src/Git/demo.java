@@ -7,4 +7,8 @@ public class demo
 	   System.out.println("name=vaibhav");
 	   System.out.println("last name= khade");
    }
+	public void m2()
+	{
+		System.out.println("phone=8177904130");
+	}
 }
